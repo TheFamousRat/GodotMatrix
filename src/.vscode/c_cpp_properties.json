@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/thefamousrat/Documents/Cpp/eigen/",
+                "/home/thefamousrat/godot-cpp/include/",
+                "/home/thefamousrat/godot-cpp/include/core/",
+                "/home/thefamousrat/godot-cpp/include/gen/",
+                "/home/thefamousrat/godot-cpp/godot_headers/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
