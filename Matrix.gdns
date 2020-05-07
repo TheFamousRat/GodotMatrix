@@ -3,7 +3,6 @@
 [ext_resource path="res://nodes/GodotMatrix/Matrix.gdnlib" type="GDNativeLibrary" id=1]
 
 [resource]
-
 resource_name = "matrix"
 class_name = "Matrix"
 library = ExtResource( 1 )

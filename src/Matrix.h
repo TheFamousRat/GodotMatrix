@@ -4,6 +4,7 @@
 #include <Godot.hpp>
 #include <Node.hpp>
 #include <Eigen/Dense>
+#include <sstream>
 
 namespace godot {
 
@@ -19,7 +20,8 @@ public:
     Matrix();
     ~Matrix();
 
-    void _init(); // our initializer called by Godot
+    void _init();
+    void _ready();
 };
 
 }
